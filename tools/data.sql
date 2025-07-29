@@ -1,0 +1,10 @@
+INSERT INTO cliente (id, nome, email) VALUES ('1', 'Cliente 01', 'cliente01@site.com');
+INSERT INTO cliente (id, nome, email) VALUES ('2', 'Cliente 02', 'cliente02@site.com');
+INSERT INTO cliente (id, nome, email) VALUES ('3', 'Cliente 03', 'cliente03@site.com');
+INSERT INTO cliente (id, nome, email) VALUES ('4', 'Cliente 04', 'cliente04@site.com');
+INSERT INTO cliente (id, nome, email) VALUES ('5', 'Cliente 05', 'cliente05@site.com');
+INSERT INTO cliente (id, nome, email) VALUES ('6', 'Cliente 06', 'cliente06@site.com');
+INSERT INTO cliente (id, nome, email) VALUES ('7', 'Cliente 07', 'cliente07@site.com');
+INSERT INTO cliente (id, nome, email) VALUES ('8', 'Cliente 08', 'cliente08@site.com');
+INSERT INTO cliente (id, nome, email) VALUES ('9', 'Cliente 09', 'cliente09@site.com');
+INSERT INTO cliente (id, nome, email) VALUES ('10', 'Cliente 10', 'cliente10@site.com');
